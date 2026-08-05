@@ -39,3 +39,7 @@ Design tokens to mirror (verified in mockups): warm cream background `#f6ecdf`, 
 - `spec` and `spec-impl` skills are installed under `.agents/skills/` (see `skills-lock.json`) for spec-driven feature work.
 - Context7 MCP is configured globally — use it for current framework/library docs (Next.js, React, Tailwind, etc.) instead of relying on training data.
 - `next-env.d.ts` and `.next/` are gitignored — don't commit them.
+
+##Spec Driven Development - skills
+- /spec Usaremos esta habilidad para crear las especificaciones de las funcionalidades.
+- /spec-impl Usaremos esta habilidad para implementar las especificaciones de las funcionalidades.
